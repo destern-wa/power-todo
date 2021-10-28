@@ -1,3 +1,6 @@
+# power-todo
+A simple to-do list that allows items to be added and deleted. Coded in 2019.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
